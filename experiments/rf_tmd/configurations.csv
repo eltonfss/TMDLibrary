@@ -1,0 +1,13 @@
+configuration_id,criterion,n_estimators,max_features
+'1','gini',10,'sqrt'
+'2','entropy',10,'sqrt'
+'3','gini',20,'sqrt'
+'4','entropy',20,'sqrt'
+'5','gini',10,'log2'
+'6','entropy',10,'log2'
+'7','gini',20,'log2'
+'8','entropy',20,'log2'
+'9','gini',10,None
+'10','entropy',10,None
+'11','gini',20,None
+'12','entropy',20,None

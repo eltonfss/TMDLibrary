@@ -1,0 +1,13 @@
+configuration_id,weights,p,n_neighbors
+'1','uniform',1,5
+'2','distance',1,5
+'3','uniform',2,5
+'4','distance',2,5
+'5','uniform',1,10
+'6','distance',1,10
+'7','uniform',2,10
+'8','distance',2,10
+'9','uniform',1,15
+'10','distance',1,15
+'11','uniform',2,15
+'12','distance',2,15

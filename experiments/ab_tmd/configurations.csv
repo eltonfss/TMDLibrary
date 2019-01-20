@@ -1,0 +1,10 @@
+configuration_id,n_estimators,learning_rate,algorithm
+'1',50,1.0,'SAMME'
+'2',50,1.0,'SAMME.R'
+'3',100,1.0,'SAMME'
+'4',100,1.0,'SAMME.R'
+'5',50,0.1,'SAMME'
+'6',50,0.1,'SAMME.R'
+'7',100,0.1,'SAMME'
+'8',100,0.1,'SAMME.R'
+

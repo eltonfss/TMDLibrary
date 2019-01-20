@@ -1,0 +1,16 @@
+configuration_id,solver,error_term_penalty
+'1','newton-cg',1.0
+'2','lbfgs',1.0
+'3','liblinear',1.0
+'4','sag',1.0
+'5','saga',1.0
+'6','newton-cg',0.1
+'7','lbfgs',0.1
+'8','liblinear',0.1
+'9','sag',0.1
+'10','saga',0.1
+'11','newton-cg',10
+'12','lbfgs',10
+'13','liblinear',10
+'14','sag',10
+'15','saga',10

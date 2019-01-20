@@ -1,0 +1,49 @@
+configuration_id,n_hidden_layers,number_of_neurons_by_layer,drop_out_prob_by_layer,activation_function_by_layer,beta,optimizer,batch_size,replace,shuffle,max_epochs
+'3',1,None,[0.5],['relu'],0.01,'momentum',128,False,True,1000
+'4',1,None,[0.5],['relu'],0.01,'gradient_descent',128,False,True,1000
+'5',1,None,None,['relu'],0.01,'adam',128,False,True,1000
+'1',1,None,[0.5],['relu'],0.01,'adam',128,False,True,1000
+'2',1,None,[0.5],['relu'],0.01,'adagrad',128,False,True,1000
+'3',1,None,[0.5],['relu'],0.01,'momentum',128,False,True,1000
+'4',1,None,[0.5],['relu'],0.01,'gradient_descent',128,False,True,1000
+'7',1,None,None,['relu'],0.01,'momentum',128,False,True,1000
+'8',1,None,None,['relu'],0.01,'gradient_descent',128,False,True,1000
+'9',1,None,[0.5],['leaky_relu'],0.01,'adam',128,False,True,1000
+'10',1,None,[0.5],['leaky_relu'],0.01,'adagrad',128,False,True,1000
+'11',1,None,[0.5],['leaky_relu'],0.01,'momentum',128,False,True,1000
+'12',1,None,[0.5],['leaky_relu'],0.01,'gradient_descent',128,False,True,1000
+'13',1,None,None,['leaky_relu'],0.01,'adam',128,False,True,1000
+'15',1,None,None,['leaky_relu'],0.01,'momentum',128,False,True,1000
+'16',1,None,None,['leaky_relu'],0.01,'gradient_descent',128,False,True,1000
+'17',1,None,[0.5],['maxout'],0.01,'adam',128,False,True,1000
+'18',1,None,[0.5],['maxout'],0.01,'adagrad',128,False,True,1000
+'19',1,None,[0.5],['maxout'],0.01,'momentum',128,False,True,1000
+'20',1,None,[0.5],['maxout'],0.01,'gradient_descent',128,False,True,1000
+'21',1,None,None,['maxout'],0.01,'adam',128,False,True,1000
+'22',1,None,None,['maxout'],0.01,'adagrad',128,False,True,1000
+'23',1,None,None,['maxout'],0.01,'momentum',128,False,True,1000
+'24',1,None,None,['maxout'],0.01,'gradient_descent',128,False,True,1000
+'25',2,None,"[0.5, 0.5]","['relu', 'relu']",0.01,'adam',128,False,True,1000
+'26',2,None,"[0.5, 0.5]","['relu', 'relu']",0.01,'adagrad',128,False,True,1000
+'27',2,None,"[0.5, 0.5]","['relu', 'relu']",0.01,'momentum',128,False,True,1000
+'28',2,None,"[0.5, 0.5]","['relu', 'relu']",0.01,'gradient_descent',128,False,True,1000
+'29',2,None,None,"['relu', 'relu']",0.01,'adam',128,False,True,1000
+'31',2,None,None,"['relu', 'relu']",0.01,'momentum',128,False,True,1000
+'32',2,None,None,"['relu', 'relu']",0.01,'gradient_descent',128,False,True,1000
+'33',2,None,"[0.5, 0.5]","['leaky_relu', 'leaky_relu']",0.01,'adam',128,False,True,1000
+'34',2,None,"[0.5, 0.5]","['leaky_relu', 'leaky_relu']",0.01,'adagrad',128,False,True,1000
+'35',2,None,"[0.5, 0.5]","['leaky_relu', 'leaky_relu']",0.01,'momentum',128,False,True,1000
+'36',2,None,"[0.5, 0.5]","['leaky_relu', 'leaky_relu']",0.01,'gradient_descent',128,False,True,1000
+'37',2,None,None,"['leaky_relu', 'leaky_relu']",0.01,'adam',128,False,True,1000
+'39',2,None,None,"['leaky_relu', 'leaky_relu']",0.01,'momentum',128,False,True,1000
+'40',2,None,None,"['leaky_relu', 'leaky_relu']",0.01,'gradient_descent',128,False,True,1000
+'41',2,None,"[0.5, 0.5]","['maxout', 'maxout']",0.01,'adam',128,False,True,1000
+'42',2,None,"[0.5, 0.5]","['maxout', 'maxout']",0.01,'adagrad',128,False,True,1000
+'43',2,None,"[0.5, 0.5]","['maxout', 'maxout']",0.01,'momentum',128,False,True,1000
+'44',2,None,"[0.5, 0.5]","['maxout', 'maxout']",0.01,'gradient_descent',128,False,True,1000
+'45',2,None,None,"['maxout', 'maxout']",0.01,'adam',128,False,True,1000
+'46',2,None,None,"['maxout', 'maxout']",0.01,'adagrad',128,False,True,1000
+'46',2,None,None,"['maxout', 'maxout']",0.01,'momentum',128,False,True,1000
+'47',2,None,None,"['maxout', 'maxout']",0.01,'gradient_descent',128,False,True,1000
+
+

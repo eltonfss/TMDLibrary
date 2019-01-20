@@ -1,0 +1,2 @@
+configuration_id,maximum_search_time,maximum_training_time,batch_size
+'default',10800,1080,300

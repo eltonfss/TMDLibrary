@@ -1,0 +1,25 @@
+configuration_id,n_hidden_layers,drop_out_prob_by_layer,beta,optimizer,batch_size,max_epochs,learning_rate,timesteps,exponential_decay
+'1',1,None,0.01,'adagrad',128,1000,0.1,1,True
+'2',1,None,0.01,'adagrad',128,1000,0.01,1,True
+'3',1,None,0.01,'adagrad',128,1000,0.001,1,True
+'4',1,[0.5],0.01,'adagrad',128,1000,0.1,1,True
+'5',1,[0.5],0.01,'adagrad',128,1000,0.01,1,True
+'6',1,[0.5],0.01,'adagrad',128,1000,0.001,1,True
+'7',2,None,0.01,'adagrad',128,1000,0.1,1,True
+'8',2,None,0.01,'adagrad',128,1000,0.01,1,True
+'9',2,None,0.01,'adagrad',128,1000,0.001,1,True
+'10',2,"[0.5, 0.5]",0.01,'adagrad',128,1000,0.1,1,True
+'11',2,"[0.5, 0.5]",0.01,'adagrad',128,1000,0.01,1,True
+'12',2,"[0.5, 0.5]",0.01,'adagrad',128,1000,0.001,1,True
+'13',3,None,0.01,'adagrad',128,1000,0.1,1,True
+'14',3,None,0.01,'adagrad',128,1000,0.01,1,True
+'15',3,None,0.01,'adagrad',128,1000,0.001,1,True
+'16',3,"[0.5, 0.5, 0.5]",0.01,'adagrad',128,1000,0.1,1,True
+'17',3,"[0.5, 0.5, 0.5]",0.01,'adagrad',128,1000,0.01,1,True
+'18',3,"[0.5, 0.5, 0.5]",0.01,'adagrad',128,1000,0.001,1,True
+'19',4,None,0.01,'adagrad',128,1000,0.1,1,True
+'20',4,None,0.01,'adagrad',128,1000,0.01,1,True
+'21',4,None,0.01,'adagrad',128,1000,0.001,1,True
+'22',4,"[0.5, 0.5, 0.5, 0.5]",0.01,'adagrad',128,1000,0.1,1,True
+'23',4,"[0.5, 0.5, 0.5, 0.5]",0.01,'adagrad',128,1000,0.01,1,True
+'24',4,"[0.5, 0.5, 0.5, 0.5]",0.01,'adagrad',128,1000,0.001,1,True

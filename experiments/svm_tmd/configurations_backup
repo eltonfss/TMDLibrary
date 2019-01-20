@@ -1,0 +1,6 @@
+'4','sigmoid',1.0
+'5','precomputed',1.0
+'9','sigmoid',0.1
+'10','precomputed',0.1
+'14','sigmoid',10
+'15','precomputed',10

@@ -1,0 +1,13 @@
+configuration_id,criterion,splitter,max_features
+'1','gini','best','sqrt'
+'2','entropy','best','sqrt'
+'3','gini','random','sqrt'
+'4','entropy','random','sqrt'
+'5','gini','best','log2'
+'6','entropy','best','log2'
+'7','gini','random','log2'
+'8','entropy','random','log2'
+'9','gini','best',None
+'10','entropy','best',None
+'11','gini','random',None
+'12','entropy','random',None

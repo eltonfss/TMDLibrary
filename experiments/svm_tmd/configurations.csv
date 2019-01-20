@@ -1,0 +1,10 @@
+configuration_id,kernel,error_term_penalty,verbose,max_iter
+'1','rbf',1.0,True,1000
+'2','linear',1.0,True,1000
+'3','poly',1.0,True,1000
+'6','rbf',0.1,True,1000
+'7','linear',0.1,True,1000
+'8','poly',0.1,True,1000
+'11','rbf',10,True,1000
+'12','linear',10,True,1000
+'13','poly',10,True,1000
