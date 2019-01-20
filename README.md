@@ -1,8 +1,6 @@
 # TMD-Library
 
-# License
-
-# Examples
+Library for training and evaluating travel mode detection models
 
 # Instalation 
 
