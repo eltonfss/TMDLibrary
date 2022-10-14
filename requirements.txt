@@ -12,7 +12,7 @@ grpcio==1.12.1
 html5lib==0.999999999
 Markdown==2.6.11
 pandas==0.23.1
-protobuf==3.15.0
+protobuf==3.18.3
 python-dateutil==2.7.3
 pytz==2018.4
 six==1.11.0
